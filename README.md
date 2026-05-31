@@ -49,3 +49,19 @@ python app.py
 Open:
 
 http://127.0.0.1:5000
+
+
+## Project Demo
+
+🎥 Watch the project demo video:
+
+https://drive.google.com/file/d/1KouOZCeq7BZJ6Q6htqQJkvWGKXeUXedN/view?usp=drivesdk
+
+### Features Demonstrated
+
+* AI Loan Eligibility Prediction
+* EMI Calculator
+* Dynamic Approval Percentage
+* Customer Data Storage
+* Services & About Popups
+* Modern Responsive UI
