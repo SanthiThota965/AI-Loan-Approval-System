@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+loan_applications.db
+
+venv/
+.env
+
+model.pkl
